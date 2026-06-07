@@ -1,0 +1,5 @@
+# mochou-p/wontdo/.gitignore
+
+/target
+Cargo.lock
+

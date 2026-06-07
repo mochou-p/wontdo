@@ -1,0 +1,11 @@
+# mochou-p/wontdo/Cargo.toml
+
+[package]
+publish = false
+name    = "wontdo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+webuild = { git = "https://github.com/mochou-p/webuild" }
+
